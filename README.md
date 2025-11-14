@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Malindu Kanishka</h1>
-<h3 align="center">An undergraduate BSc (Hons) in Electronics and Telecommunication Engineering from Sri Lanka</h3>
+<h3 align="center">An undergraduate BSc (Hons) in Electronics and Telecommunication Engineer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=malindu200111&label=Profile%20views&color=0e75b6&style=flat" alt="malindu200111" /> </p>
 <table  align="center">
