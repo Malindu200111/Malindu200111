@@ -3,20 +3,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=malindu200111&label=Profile%20views&color=0e75b6&style=flat" alt="malindu200111" /> </p>
 
+- 🔭 I’m **Undergraduate at SLTC**
 
-- 🌱 I’m currently learning **Frontend (HTML, CSS, JS) , Java programming , MySQL , Microcontrollers & embedded systems (PIC16F877A, Proteus, MPLAB X, KiCad) , Electromagnetics & core ETE modules**
+- 🌱 I’m currently learning **Frontend (HTML, CSS, JS)**
 
-- 👯 I’m looking to collaborate on **Frontend development projects (HTML, CSS, JavaScript)**
+- 👯 I’m looking to collaborate on **Frontend development projects**
 
-- 🤝 I’m looking for help with **Advanced Java, MySQL integrations & UI improvements**
+- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/malindu-k-457773364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/malindu-k-457773364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/malindu-k-457773364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
-- 💬 Ask me about **Frontend Development (React, Vue, GSAP) Java, MySQL, Java Swing PIC Microcontrollers (PIC16F877A), Proteus, MPLAB X, KiCad Electronics & Telecommunication Engineering concepts**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **malindukanishka73@gmail.com**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAGsAK0G-d0/8gFLHFu9-Tw36_RRYYhq6g/edit?utm_content=DAGsAK0G-d0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGsAK0G-d0/8gFLHFu9-Tw36_RRYYhq6g/edit?utm_content=DAGsAK0G-d0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - ⚡ Fun fact **call me as Babara**
 
