@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Malindu Kanishka</h1>
 <h3 align="center">An undergraduate BSc (Hons) in Electronics and Telecommunication Engineer from Sri Lanka</h3>
 Hi everyone, i'm Malindu Kanishka
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
+<img align="right" alt="GIF" src="IMG_1078.PNG" width="45%" />
 <p width="45%">
 Hi, nice to meet you. Let me introduce my profile in a few lines.
   <ul>
@@ -17,20 +17,37 @@ Passionate Telecommunication Engineer and Researcher, I am always looking for ne
 For a few years now I've been focusing on cloud-native networking, signal processing, and AI/ML, especially with <b>Machine Learning models</b> (U-Net, GANs), <b>Computer Vision</b>, and <b>Network Optimization</b> (Queuing Theory, Tele-traffic models).<br>
 
 </p>
- 
-
-📊 GitHub Stats
-
-<p align="center">
-<p align="center">
-<a href="https://github.com/Malindu200111">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Malindu200111&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Malindu200111&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="adam pithen wala" height="30" width="40" /></a>
+  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="adampithewan" height="30" width="40" /></a>
+ <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="adampithewan" height="30" width="40" /></a>
 </p>
-  </td>
-</tr>
-</table>
+
+ 
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <p align="center">
+    <a href="https://github.com/Malindu200111">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Malindu200111&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Malindu200111&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+  </p>
+</div>
 
 
 <p align="center">
@@ -102,41 +119,21 @@ For a few years now I've been focusing on cloud-native networking, signal proces
 
 
 
-🏆 GitHub Trophies
+<p align="center">
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Malindu200111&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
----
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/malshan-nawarathna" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://fb.com/malshan-nawarathna" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/malshan-nawarathna" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:2000malshan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://vimukthi1239.github.io/vimukthi/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
-
-
-📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Malindu200111&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" alt="Top Contributed Repos"/>
-</div>
+</a> &nbsp;&nbsp;
+<p>
+<p align="center">
+  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+</p>
 
 ---
+
+</div>
+
+
+
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
