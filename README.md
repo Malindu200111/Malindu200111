@@ -22,9 +22,10 @@ Passionate Telecommunication Engineer and Researcher, I am always looking for ne
 📊 GitHub Stats
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+<p align="center">
+<a href="https://github.com/Malindu200111">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Malindu200111&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Malindu200111&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
   </td>
@@ -34,7 +35,7 @@ Passionate Telecommunication Engineer and Researcher, I am always looking for ne
 
 <p align="center">
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Malindu200111&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
 </p>
 
