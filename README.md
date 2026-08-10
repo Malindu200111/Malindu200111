@@ -14,7 +14,7 @@ Hi, nice to meet you. Let me introduce my profile in a few lines.
     <li>📮 You can contact me directly here : <b>malindukanishka73@gmail.com</b>
   </ul>
 Passionate Telecommunication Engineer and Researcher, I am always looking for new challenges.
-<br>For a few years now I've been focusing on cloud-native networking, signal processing, and AI/ML, especially with <b>Machine Learning models</b> (U-Net, GANs), <b>Computer Vision</b>, and <b>Network Optimization</b> (Queuing Theory, Tele-traffic models).<br>
+For a few years now I've been focusing on cloud-native networking, signal processing, and AI/ML, especially with <b>Machine Learning models</b> (U-Net, GANs), <b>Computer Vision</b>, and <b>Network Optimization</b> (Queuing Theory, Tele-traffic models).<br>
 
 </p>
  
